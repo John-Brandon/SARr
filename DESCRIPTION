@@ -6,5 +6,7 @@ Date: 2016-01-02
 Author: John R. Brandon
 Maintainer: jbrandon@gmail.com
 Description: Summary tables for U.S. Marine Mammal Stock Assessment Reports (SARs) include data on recent abundance estimates (and their precision), values used to calculate the limit (PBR) on human-caused mortality, etc. This package includes *.csv files with the 2014 summary tables and R code to summarize the information in those tables.
+URL: https://github.com/John-Brandon/SARr
+BugReports: https://github.com/John-Brandon/SARr/issues
 License: MIT
 LazyData: TRUE
